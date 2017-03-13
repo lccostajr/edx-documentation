@@ -184,11 +184,14 @@ columns that provide the following information.
   that assignment type: for example, "Homework (Avg)". This column is not
   included if a particular assignment type has only one assignment.
 
-  Note that this assignment type average takes into account dropped
-  assignments. For example, if the course includes five homework assignments
-  and the course grading policy allows one homework assignment with the lowest
-  score to be dropped, the homework assignment average in this grade report is
-  calculated over four homework assignments rather than five.
+  This assignment type average is modified by the assignment weight. In other
+  words, the assignment type average is the average of all assignment scores of
+  that type, multiplied by the weight of that assignment type. The average also
+  takes into account dropped assignments. For example, if the course includes
+  five homework assignments and the course grading policy allows one homework
+  assignment with the lowest score to be dropped, the homework assignment
+  average in this grade report is calculated over four homework assignments
+  rather than five.
 
 * If :ref:`cohorts<Cohorts Overview>` are used in the course, a **Cohort Name**
   column indicates the name of the cohort that each learner belongs to,
@@ -373,7 +376,7 @@ The gradebook includes the following features.
 
 * For assignment types that include more than one assignment, an **{assignment
   type} Avg** column displays each learner's current average score for that
-  assignment type.
+  assignment type, modified by the assignment weight.
 
 * The **Total** column presents the total score that each learner has currently
   attained in the course. This value is expressed as a whole number: a learner
