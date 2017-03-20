@@ -10,9 +10,8 @@ Open edX Learner's Guide
 
    SFD_introduction
    SFD_enrolling
-   SFD_self_paced
-   SFD_content_availability
    sfd_dashboard_profile/index
+   SFD_content_availability
    SFD_prerequisites
    SFD_check_progress
    SFD_certificates
