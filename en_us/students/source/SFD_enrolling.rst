@@ -79,8 +79,6 @@ image in the course catalog on edx.org.
    :width: 200
    :alt: Image of the DemoX course card with a verified indication.
 
-In general, you have two weeks after a course begins to upgrade to a verified certificate. You can view the deadline for upgrading to a verified certificate on the course Home page. For more details, see :ref:`Verification Upgrade Deadline`.
-
 For more information about enrolling in the verified track for a course, see
 :ref:`SFD Enroll in a Course` or :ref:`SFD Change to the Verified Track`.
 

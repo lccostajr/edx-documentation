@@ -137,5 +137,3 @@ certificate. For example, the option might be **View Certificate** or
 
   For more information, see :ref:`learners:SFD Verify Your Identity`.
 
-  In general, you have two weeks after a course begins to upgrade to a verified certificate. You can view the deadline for upgrading to a verified certificate on the course **Home** page. For more information, see :ref:`Verification Upgrade Deadline`.
-
