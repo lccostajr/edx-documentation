@@ -15,7 +15,7 @@ For information about the types of certificates that are available and accessing
 the certificates you earned, see :ref:`Certificates`.
 
 For information about how to enroll in a certificate track for a course and how
-to verify your identity for certificates, see :ref:`SFD Pursuing Certificates`.
+to verify your identity for certificates, see :ref:`XXXXXXXXX`.
 
 *******************************
 About edX Courses and Programs
