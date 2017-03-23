@@ -48,7 +48,7 @@ different.
   through search engines such as Google. Only learners whom you explicitly
   invite or who have the URL for your course can participate in your course on
   Edge. Note that you can invite an unlimited number of learners to participate
-  in an Edge course.
+  in an Edge course. Edge courses do not offer certificates.
 
 
 .. _Create an Account:

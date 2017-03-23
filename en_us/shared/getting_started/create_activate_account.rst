@@ -1,3 +1,7 @@
+.. This file is a shared file that is included both in the Learner's Guide
+.. (SFD_account.rst) and in the Building and Running an edX Course Guide
+.. (accounts.rst).
+
 You can create an account for edX or edX Edge in different ways.
 
 * You can create an entirely new edX or edX Edge account.

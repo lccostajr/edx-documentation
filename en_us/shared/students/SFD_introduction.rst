@@ -4,24 +4,65 @@
 Welcome!
 #################
 
-Welcome to online learning with edX! At edX, we are glad to welcome new
-learners to the `edx.org`_ website or to the edX mobile app, as well as to all
-of the other websites that use the Open edX platform to deliver courses around
-the world. We hope that you are as excited about online learning as we are.
+Welcome to online learning with edX! Founded by Harvard University and MIT in
+2012, edX is a non-profit online learning destination and MOOC provider,
+offering high-quality courses from the world’s best universities and
+institutions to learners everywhere. We are the only leading MOOC provider
+that is both non-profit and open source. Our mission is to increase access to
+high-quality education for everyone, everywhere.
 
-The purpose of this guide is to help with your transition to online learning.
-The guide answers common questions about topics like getting started in an
-online course, earning certificates, participating in course discussions, and
+At edX, we are glad to welcome new learners to the `edx.org`_ website or to
+the edX mobile app, as well as to all of the other websites that use the Open
+edX platform to deliver courses around the world. We hope that you are as
+excited about online learning as we are.
+
+We hope that this guide helps you with your transition to online learning. The
+guide answers common questions about topics like getting started in an online
+course, earning certificates, participating in course discussions, and
 completing some of the exercises you may see in your course.
 
-This guide is continuously being updated and expanded. If you have any comments
+This guide is continually being updated and expanded. If you have any comments
 or questions about this guide, select **Feedback** on any page.
 
 .. only:: Partners
 
-  .. note::
-    If you have comments or questions about a specific course, select **Need
-    Help?** on any page.
+  .. note::  If you have comments or questions about a specific course, first
+     post the course's discussions to try to find answers from the course team
+     or other learners. You can also select **Need Help?** on any page in this
+     guide to contact the edX Learner Support team.
+
+.. contents::
+  :local:
+  :depth: 1
+
+
+*********************************
+Introducing edx.org and edX Edge
+*********************************
+
+EdX hosts courses on the `edx.org`_ and `edX Edge`_ websites.
+
+* The edx.org website has massive open online courses (MOOCs) that are designed
+  and led by edX partner organizations. This website lists all available
+  courses publicly, and learners from around the world can find and enroll in
+  these courses. When we refer to "edX" accounts and courses we are referring
+  to accounts and courses on edx.org.
+
+* EdX Edge has small private online courses (SPOCs), which are usually created
+  for use on campus or within an organization. These courses often have
+  limited enrollment and are not listed publicly. To enroll in a course on
+  Edge, you must receive an email message with an invitation to enroll and the
+  course URL from the course team. You do not need to create an account on
+  Edge unless you have received an invitation to enroll in an Edge course.
+  Courses on Edge do not offer certificates.
+
+.. note::  While edX hosts both of these websites, the user accounts for
+   edx.org and edX Edge are separate. If you take courses on both sites, you
+   must complete the :ref:`account registration <Register on edX>` process
+   separately for each site.
+
+
+.. _Learning in a MOOC:
 
 ******************
 Learning in a MOOC
@@ -40,12 +81,12 @@ also used to create the courses on websites that use the Open edX online
 learning platform. Everyone is welcome to review examples of these components,
 and practice using them, by enrolling in the `edX Demo course`_.
 
-Depending on the course, a variety of enhanced components might also be
-included, from team problem-solving exercises and lab work to live
-demonstrations and ask me anything (AMA) sessions. Every course has a unique
-design, and course teams are continuously looking for new ways to engage
-learners and teach more effectively. Course teams typically include
-instructions for how to use any enhanced components right in the course.
+In some courses, enhanced components might also be included, from team
+problem-solving exercises and lab work to live demonstrations and ask me
+anything (AMA) sessions. Every course has a unique design, and course teams
+are continuously looking for new ways to engage learners and teach more
+effectively. Course teams typically include instructions for how to use any
+enhanced components right in the course.
 
 MOOCs bring learners from all over the world together. The people who you take
 a course with have a wide variety of educational backgrounds and educational
@@ -53,6 +94,10 @@ goals. One part of the MOOC experience that everyone shares is encountering new
 ways of learning. As a result, most learners occasionally have questions about
 what is expected, how to complete an assignment, or what a word, phrase, or
 abbreviation means.
+
+********************************************
+If You Have Questions As You Take a Course
+********************************************
 
 If you have a question about something you encounter in an edX course, try
 these options for getting an answer.
@@ -79,32 +124,5 @@ these options for getting an answer.
   a course-specific Facebook page or Twitter feed might be available for
   learners to share information.
 
-.. _Time Zones:
-
-************************
-A Note about Time Zones
-************************
-
-The dates and times that new materials are released, and when homework
-assignments and exams are due, are shown throughout your course.
-
-In your account settings, you can select your local time zone so that any
-course dates and times are displayed in your local time.
-
-.. Important::
-   If you do not select a time zone in your account settings, edX lists dates
-   and times on your dashboard, in the body of the course, and on your
-   **Progress** page in the time zone that your browser settings specify. Other
-   times and dates appear in Coordinated Universal Time (UTC). Dates and times
-   that use your browser time zone are in military time and are followed by a
-   time zone indicator: for example, 17:00 Sept 16, 2018 IOT. Dates and times
-   in UTC do not have a time zone indicator.
-
-   To convert UTC time to your local time, you can use any time zone converter
-   that you want, including one of the following time zone converters.
-
-   * `Time and Date Time Zone Converter`_
-
-   * `Time Zone Converter`_
 
 .. include:: ../../links/links.rst

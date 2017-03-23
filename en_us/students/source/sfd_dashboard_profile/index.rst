@@ -1,7 +1,7 @@
 .. _Dashboard Index:
 
 ###################################################
-Finding and Updating Your Account Information
+Updating Your Account Information
 ###################################################
 
 .. toctree::

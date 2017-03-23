@@ -3,19 +3,26 @@
 .. This file is only in the edX version of the Learner's Guide. There is no
 .. equivalent in the Open edX version because it is not applicable.
 
-
 ######################################################
 Differences Between Instructor- and Self-Paced Courses
 ######################################################
 
-Many courses are instructor-paced: they follow a schedule that the instructor
-sets, with assignments and exams that have specific due dates. In contrast,
-self-paced courses allow you to progress through the course at your own speed.
+The pacing of a course refers to how course teams run the course, and how
+learners can interact with the course material. Many courses are instructor-
+paced: they follow a schedule that the instructor sets, with assignments and
+exams that have specific due dates. In contrast, self-paced courses contain
+assignments without due dates. You can progress through the course at your own
+speed.
 
-.. only:: Partners
+On the edx.org home page, an indication below a course's start date and above
+the course's **Enroll Now** button lets you know if a course is self-paced. If
+a course is not marked as self-paced, then it is instructor-paced.
 
-    On the edx.org home page, an indication next to the course start date lets
-    you know if a course is self-paced.
+
+.. contents::
+ :local:
+ :depth: 1
+
 
 .. _SFD Instructor Paced:
 
