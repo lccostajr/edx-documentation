@@ -95,6 +95,8 @@ For a list of all courses that currently offer verified certificates, see the
 For more information about certificates, see :ref:`Certificates` and `Verified
 Certificates`_ on the edx.org website.
 
+.. _About Programs:
+
 ========
 Programs
 ========
@@ -122,7 +124,7 @@ edx.org.
 
 MicroMasters programs are a series of graduate level courses that you take for
 credit in a specific career field. After you earn a MicroMasters certificate,
-you can apply to a university that offers credit for the MicroMasters courses.
+you can apply to a university that offers credit for those MicroMasters courses.
 If you are accepted, you can then apply your MicroMasters credit toward a
 master’s degree at that university.
 
@@ -240,10 +242,36 @@ this page, you can view your progress through the program, enroll in more of
 the program's courses, and view any certificates that you have earned.
 
 
+.. _Unenroll from a Course:
 
+========================
+Unenroll from a Course
+========================
 
+If you cannot complete a course, or do not want to continue taking a course,
+you can drop or unenroll from the course, but it is not necessary to do so.
+You can simply stop viewing and working in the course, which will remain in
+the list of courses on your dashboard.
 
+.. note:: If you do unenroll from a course, the course no longer appears on
+   your dashboard, and you can no longer access course content or information
+   about the grade or certificate you might have earned in the course.
 
+To unenroll from a course, follow these steps.
+
+#. On your dashboard, locate the course.
+
+#. Select the course settings icon.
+
+   .. image:: ../../shared/students/Images/settings_icon_unenroll.png
+      :width: 300
+      :alt: A learner's dashboard of courses with the course settings menu open
+          for a course. An arrow indicates the Course Settings icon, and the
+          Unenroll menu option is circled.
+
+If you change your mind before the course ends, you can enroll in the course
+again. Your status in the course, including your scores for all completed
+assignments, is available as soon as you re-enroll.
 
 
 .. include:: ../../links/links.rst

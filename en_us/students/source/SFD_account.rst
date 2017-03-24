@@ -23,6 +23,9 @@ Creating and Activating an Account
 .. include:: ../../shared/getting_started/Section_troubleshooting_signin.rst
 
 
+
+
+
 ******************************
 Learning About Learning Online
 ******************************

@@ -2,7 +2,7 @@
 .. (SFD_account.rst) and in the Building and Running an edX Course Guide
 .. (accounts.rst).
 
-You can create an account for edX or edX Edge in different ways.
+You can register, or create, an account for edX or edX Edge in different ways.
 
 * You can create an entirely new edX or edX Edge account.
 * You can use an existing social media account, such as a Facebook or Google
@@ -37,8 +37,8 @@ edX recommends that you select your username carefully. You cannot change your
 public username after you register.
 
 You also provide your full name, which appears on any certificates that you
-earn. You can change your full name at any time. For more information, see
-:ref:`learners:SFD Basic Information`.
+earn. You can :ref:`change your full name<learners:SFD Basic Information>` at
+any time.
 
 To register an edX or edX Edge account, follow these steps.
 
@@ -85,14 +85,14 @@ visible.
 
 .. _edX Activate an Account:
 
-====================
-Activate an Account
-====================
+=====================
+Activate Your Account
+=====================
 
 .. note::
-  If you sign out of your edX or edX Edge account, you cannot sign in again
-  until you activate your account. You also cannot enroll in any courses until
-  you activate your account.
+
+    If you sign out of your edX or edX Edge account after you first create an
+    account, you must activate your account before you can sign in again.
 
 To activate your account, you use the email message that you receive from edX
 when you create your account.
@@ -110,3 +110,12 @@ After you activate your account, your browser automatically opens to an
 After you create and activate your account, if you want to modify your account
 information, reset your password, or link or unlink accounts, go to the
 :ref:`Account Settings <SFD Account Settings>` page.
+
+
+=======================
+Deactivate Your Account
+=======================
+
+To deactivate your account, you :ref:`unenroll<Unenroll from a Course>` from
+all of your courses. You can reactivate your account at any time by enrolling
+in a new course.

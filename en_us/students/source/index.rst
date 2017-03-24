@@ -10,6 +10,7 @@ EdX Learner's Guide
 
    SFD_introduction
    SFD_account
+   SFD_update_acct_settings
    sfd_dashboard_profile/index
    SFD_enrolling
    SFD_pursue_certs
