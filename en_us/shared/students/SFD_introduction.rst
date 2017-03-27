@@ -4,62 +4,40 @@
 Welcome!
 #################
 
-Welcome to online learning with edX! Founded by Harvard University and MIT in
-2012, edX is a non-profit online learning destination and MOOC provider,
-offering high-quality courses from the world’s best universities and
-institutions to learners everywhere. We are the only leading MOOC provider
-that is both non-profit and open source. Our mission is to increase access to
-high-quality education for everyone, everywhere.
+.. only:: Partners
 
-At edX, we are glad to welcome new learners to the `edx.org`_ website or to
-the edX mobile app, as well as to all of the other websites that use the Open
-edX platform to deliver courses around the world. We hope that you are as
-excited about online learning as we are.
+  Welcome to online learning with edX! Founded by Harvard University and MIT in
+  2012, edX is a non-profit online learning destination and MOOC provider,
+  offering high-quality courses from the world’s best universities and
+  institutions to learners everywhere. We are the only leading MOOC provider
+  that is both non-profit and open source. Our mission is to increase access to
+  high-quality education for everyone, everywhere.
+
+  At edX, we are glad to welcome new learners to the :ref:`edx.org or edX Edge
+  websites<Intro edxorg and Edge>`, or to the edX mobile app, as well as to all
+  of the other websites that use the Open edX platform to deliver courses
+  around the world. We hope that you are as excited about online learning as
+  we are.
 
 We hope that this guide helps you with your transition to online learning. The
 guide answers common questions about topics like getting started in an online
 course, earning certificates, participating in course discussions, and
 completing some of the exercises you may see in your course.
 
-This guide is continually being updated and expanded. If you have any comments
-or questions about this guide, select **Feedback** on any page.
-
 .. only:: Partners
 
-  .. note::  If you have comments or questions about a specific course, first
-     post the course's discussions to try to find answers from the course team
-     or other learners. You can also select **Need Help?** on any page in this
-     guide to contact the edX Learner Support team.
+ This guide is continually being updated and expanded. If you have any comments
+ or questions about this guide, select **Feedback** on any page.
+
+ .. note::  If you have comments or questions about a specific course, first
+    post the course's discussions to try to find answers from the course team
+    or other learners. You can also select **Need Help?** on any page in this
+    guide to contact the edX Learner Support team.
+
 
 .. contents::
   :local:
   :depth: 1
-
-
-*********************************
-Introducing edx.org and edX Edge
-*********************************
-
-EdX hosts courses on the `edx.org`_ and `edX Edge`_ websites.
-
-* The edx.org website has massive open online courses (MOOCs) that are designed
-  and led by edX partner organizations. This website lists all available
-  courses publicly, and learners from around the world can find and enroll in
-  these courses. When we refer to "edX" accounts and courses we are referring
-  to accounts and courses on edx.org.
-
-* EdX Edge has small private online courses (SPOCs), which are usually created
-  for use on campus or within an organization. These courses often have
-  limited enrollment and are not listed publicly. To enroll in a course on
-  Edge, you must receive an email message with an invitation to enroll and the
-  course URL from the course team. You do not need to create an account on
-  Edge unless you have received an invitation to enroll in an Edge course.
-  Courses on Edge do not offer certificates.
-
-.. note::  While edX hosts both of these websites, the user accounts for
-   edx.org and edX Edge are separate. If you take courses on both sites, you
-   must complete the :ref:`account registration <Register on edX>` process
-   separately for each site.
 
 
 .. _Learning in a MOOC:
@@ -94,6 +72,9 @@ goals. One part of the MOOC experience that everyone shares is encountering new
 ways of learning. As a result, most learners occasionally have questions about
 what is expected, how to complete an assignment, or what a word, phrase, or
 abbreviation means.
+
+
+.. _If You Have Questions In Course:
 
 ********************************************
 If You Have Questions As You Take a Course

@@ -10,9 +10,10 @@ Open edX Learner's Guide
 
    SFD_introduction
    SFD_enrolling
-   sfd_dashboard_profile/index
-   SFD_content_availability
    SFD_prerequisites
+   SFD_dashboard_profile_SectionHead
+   SFD_content_availability
+   SFD_start_course
    SFD_check_progress
    SFD_certificates
    SFD_mobile

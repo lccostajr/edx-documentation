@@ -188,9 +188,12 @@ The site saves your changes automatically.
 Link or Unlink a Social Media Account
 ***************************************
 
-You can link your account to social media and other accounts, including
-Facebook, Google, school, and company accounts. When your accounts are linked,
-you can sign in automatically by signing in to your other account.
+You can link your edX or edX Edge account to social media and other accounts,
+including Facebook, Google, and school or company accounts.
+
+.. note:: If you link your accounts, whenever you sign in to the social media
+   or other account, you also sign in to your edX or edX Edge account
+   automatically.
 
 To link your account with another account, follow these steps.
 

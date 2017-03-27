@@ -1,3 +1,5 @@
+.. This topic is edX only
+
 .. _SFD Pursuing Certificate:
 
 ####################################
@@ -9,8 +11,6 @@ This topic describes how to select or change to a certificate track for a course
 .. contents::
   :local:
   :depth: 1
-
-
 
 
 .. _SFD Change to the Verified Track:
@@ -312,6 +312,20 @@ dashboard informs you whether the verification process was successful. If the
 verification process was not successful, you must submit new verification
 photos. You can begin the verification process again by selecting **Verify Your
 Identity**.
+
+
+=====================================
+Check Your ID Verification Status
+=====================================
+
+If you have enrolled in the verified certificate track for a course, your
+dashboard provides the status of your ID verification.
+
+On your dashboard, locate the course.
+
+Your ID verification status appears with the course image for that course.
+For more information, see :ref:`learners:SFD Verify Your Identity`.
+
 
 ==================================================
 Troubleshooting the Identity Verification Process

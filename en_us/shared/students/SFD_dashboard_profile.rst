@@ -1,38 +1,30 @@
-.. _Dashboard:
-
-**********
-Overview
-**********
-
-After you create an account, you can view information about your courses,
-change course or account settings, or create a profile.
-
-.. contents::
- :local:
- :depth: 1
+.. This content is used as "include" in both the Learner's Guide and Building
+.. and Running Guide. SFD_dashboard_profile_SectionHead and
+.. CA_dashboard_profile_SectionHead files.
 
 You can access course, account, or profile information from any page on the
 website, whether you are in a course or browsing the course catalog. Select the
 dropdown menu icon next to your username, and then choose one of the following
 menu options.
 
-* :ref:`Dashboard<SFD Learner Dashboard>` gives you access to your courses and
-  to course information, such as start and end dates, certificates, and email
-  settings.
+* :ref:`Dashboard<SFD Learner Dashboard>` gives you access to the courses and
+  programs that you have enrolled in, and to information such as course start
+  and end dates, certificates, and email settings.
 
 * :ref:`Profile <SFD Profile Page>` gives you the option to provide personal
-  information about yourself for that other course participants, such as an
+  information about yourself that other course participants can see, such as an
   image and biographical information.
 
-* :ref:`Account<SFD Account Settings>` gives you access to your account
+* :ref:`Account<SFD Update Account Settings>` gives you access to your account
   settings and preferences. For example, you can update your password or email
   address and set your :ref:`time zone<Time Zones>`.
 
   .. only:: Partners
 
-    On the **Account Settings** page, you can also view a :ref:`summary of your
-    edX purchases<View Order History>` and link your edX account to a social
-    media or organization account.
+    On the **Account Settings** page, you can also view your :ref:`edX order
+    history<View Order History>` and link your edX account to a social media or
+    organization account.
+
 
 .. _SFD Learner Dashboard:
 
@@ -45,14 +37,15 @@ create an account or enroll in a course, you automatically go to your
 dashboard. You can also access your dashboard by selecting the dropdown menu
 icon next to your username at the top of any page.
 
-.. image:: ../../../shared/images/dashboard_menu.png
+.. image:: ../../shared/images/dashboard_menu.png
  :width: 300
  :alt: The menu that appears on the website when you select the
      dropdown icon next to your username. The Dashboard option is circled, and
      the other options are Profile, Account, and Sign Out.
 
-You can find information about your courses and change course settings on your
-dashboard. For more information, see :ref:`Find or Change Course Information`.
+You can find information about your courses and change course-specific email
+subscription settings on your dashboard. For more information, see :ref:`Find or
+Change Course Information`.
 
 .. only:: Partners
 
@@ -63,51 +56,10 @@ dashboard. For more information, see :ref:`Find or Change Course Information`.
     information about your courses and allows you to change course settings. By
     default, the dashboard opens to the **Courses** page.
 
-  * The **Programs** page lists any programs, such as XSeries programs, that
-    edX offers for courses that you are enrolled in. Programs appear on this
-    page if you are enrolled in any course that is part of that program. For
-    more information, see :ref:`Programs Page`.
-
-.. include:: ../../../shared/getting_started/Section_start_course.rst
-
-.. _Find or Change Course Information:
-
-*********************************
-Updating Course-Specific Settings
-*********************************
-
-This section describes how you update course-specific settings.
-
-.. contents::
-  :local:
-  :depth: 1
-
-.. _Change a Course Email Preference:
-
-=================================
-Change a Course Email Preference
-=================================
-
-To subscribe or unsubscribe to emails from a course, follow these steps.
-
-#. On your dashboard, locate the course.
-
-#. Select the course settings icon. The course settings icon resembles a gear
-   and appears next to **View Course** or **View Archived Course**.
-
-   .. image:: ../../../shared/images/LearnDash_GearIcon.png
-     :width: 200
-     :alt: The course settings icon next to the View Course button on the
-           learner dashboard.
-
-#. Select **Email Settings**.
-
-#. Select or clear the **Receive course emails** check box, and then select
-   **Save Settings**.
-
-   .. note:: If you clear this check box, you will not receive any of the
-        email messages that course teams send to communicate with enrolled
-        learners in the course.
+  * The **Programs** page lists any programs, such as XSeries or MicroMasters
+    programs, that edX offers for courses that you are enrolled in. Programs
+    appear on this page if you are enrolled in any course that is part of that
+    program. For more information, see :ref:`Programs Page`.
 
 
 .. only:: Partners
@@ -118,9 +70,9 @@ To subscribe or unsubscribe to emails from a course, follow these steps.
   Explore edX Programs
   =======================
 
-  The **Programs** page lists all of your :ref:`programs<About Programs>`. You
-  see a program on this page if you are enrolled in any courses that are part of
-  that program.
+  The **Programs** page lists the :ref:`programs<About Programs>` that you have
+  enrolled in. You see a program on this page if you are enrolled in any courses
+  that are part of that program.
 
   On the **Programs** page, you can perform the following actions.
 
@@ -168,14 +120,14 @@ You can share either a limited profile or a full profile.
   .. note:: If you are under 13 years of age, you can only share a limited
      profile. You cannot share a profile picture.
 
-   .. image:: ../../../shared/images/SFD_Prof_Limited.png
+   .. image:: ../../shared/images/SFD_Prof_Limited.png
      :width: 400
      :alt: A learner's limited profile showing only username and image.
 
 * A full profile includes biographical information in addition to your username
   and profile image.
 
-  .. image:: ../../../shared/images/SFD_Prof_Full.png
+  .. image:: ../../shared/images/SFD_Prof_Full.png
     :width: 500
     :alt: A learner's full profile with location, language, and short
      biographical paragraph.
@@ -257,7 +209,7 @@ To add or update your profile, follow these steps.
    If you have not added information to the field, the field appears
    highlighted and surrounded by a dashed line.
 
-   .. image:: ../../../shared/images/SFD_Prof_Add_Info.png
+   .. image:: ../../shared/images/SFD_Prof_Add_Info.png
     :width: 300
     :alt: A profile page with the "Add language" field highlighted and
         surrounded by a dashed line.
@@ -265,7 +217,7 @@ To add or update your profile, follow these steps.
    If the field already has information, the field appears highlighted, and a
    pencil icon appears.
 
-   .. image:: ../../../shared/images/SFD_Prof_Edit_Info.png
+   .. image:: ../../shared/images/SFD_Prof_Edit_Info.png
     :width: 500
     :alt: A profile page with the "About Me" field highlighted.
 
@@ -299,6 +251,41 @@ The learner's account profile page opens.
 
 
 
+.. _Find or Change Course Information:
+
+*********************************
+Updating Course-Specific Settings
+*********************************
+
+From the dashboard, access the courses that you are enrolled in and change
+course-specific settings. You can also :ref:`unenroll from a course<Unenroll
+from a Course>` from the dashboard.
+
+.. _Change a Course Email Preference:
+
+=================================
+Change a Course Email Preference
+=================================
+
+To subscribe or unsubscribe to emails from a course, follow these steps.
+
+#. On your dashboard, locate the course.
+
+#. Select the course settings icon. The course settings icon resembles a gear
+   and appears next to **View Course** or **View Archived Course**.
+
+   .. image:: ../../shared/images/LearnDash_GearIcon.png
+     :width: 200
+     :alt: The course settings icon next to the View Course button on the
+           learner dashboard.
+
+#. Select **Email Settings**.
+
+#. Select or clear the **Receive course emails** check box, and then select
+   **Save Settings**.
+
+   .. note:: If you clear this check box, you will not receive any of the
+        email messages that course teams send to communicate with enrolled
+        learners in the course.
 
 
-.. include:: ../../../links/links.rst

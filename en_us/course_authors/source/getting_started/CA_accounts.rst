@@ -18,8 +18,7 @@ Learner's Guide* with prospective learners, along with your own course- or
 institution-specific details about the registration process, such as password
 policies or the use of campus credentials.
 
-For information about enrolling learners in a course, see
-:ref:`enroll_student`.
+For information about enrolling learners in a course, see :ref:`enroll_student`.
 
 .. _edX.org and edX Edge:
 
@@ -66,7 +65,7 @@ Creating and Activating an Account
    organizational email address or select an existing account (such as a campus
    account) that is set up to use your organizational email address.
 
-.. include:: ../../../shared/getting_started/create_activate_account.rst
+.. include:: ../../../shared/getting_started/Section_create_activate_account.rst
 
 You can only access the **Account Settings** page from the LMS. You cannot
 access this page from Studio.

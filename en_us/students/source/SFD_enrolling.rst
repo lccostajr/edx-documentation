@@ -1,11 +1,14 @@
 .. _SFD Enrolling in a Course:
 
+.. This file is for edX only; not included in Open edX version of the Learner's
+.. Guide.
+
 ####################################
 Enrolling in edX Courses or Programs
 ####################################
 
-This topic provides information about edX courses and programs, and describes
-how to enroll in an edX course or program.
+This topic provides information about edX courses and programs, and how to
+enroll.
 
 .. contents::
   :local:
@@ -15,7 +18,8 @@ For information about the types of certificates that are available and accessing
 the certificates you earned, see :ref:`Certificates`.
 
 For information about how to enroll in a certificate track for a course and how
-to verify your identity for certificates, see XREF`XXXXXXXXX`.
+to verify your identity for certificates, see :ref:`SFD Pursuing Certificate`.
+
 
 *******************************
 About edX Courses and Programs
@@ -33,7 +37,6 @@ options, or tracks, that the course offers.
 .. contents::
   :local:
   :depth: 2
-
 
 
 =========================
@@ -95,6 +98,7 @@ For a list of all courses that currently offer verified certificates, see the
 For more information about certificates, see :ref:`Certificates` and `Verified
 Certificates`_ on the edx.org website.
 
+
 .. _About Programs:
 
 ========
@@ -104,10 +108,10 @@ Programs
 In addition to taking individual edX courses, you can enroll in an XSeries
 program or MicroMasters program.
 
-An XSeries program is a group of courses that explore a specific subject in
-depth. An XSeries program offers an XSeries certificate after you earn a
-verified certificate for all of the courses in the program. All courses in an
-XSeries program offer verified certificates.
+An XSeries program is a group of courses that together explore a specific
+subject in depth. An XSeries program offers an XSeries certificate after you
+earn a verified certificate for all of the courses in the program. All courses
+in an XSeries program offer verified certificates.
 
 XSeries programs have an "XSeries program" indication in the course catalog on
 edx.org. To learn more about the program and its courses, select the program.
@@ -140,6 +144,7 @@ on edx.org.
 
 For a list of all courses that are part of an XSeries or MicroMasters program,
 see the `edX course catalog`_.
+
 
 .. _SFD Enroll in a Course:
 
