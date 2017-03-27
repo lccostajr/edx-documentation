@@ -50,11 +50,11 @@ different.
   in an Edge course. Edge courses do not offer certificates.
 
 
-.. _Create an Account:
+.. _CA About Accounts:
 
-**********************************
-Creating and Activating an Account
-**********************************
+************************************
+About edX.org and edX Edge Accounts
+************************************
 
 .. note::  The user accounts on edx.org and edX Edge are separate. To access or
    create courses on both websites, you must complete the account registration
@@ -65,12 +65,10 @@ Creating and Activating an Account
    organizational email address or select an existing account (such as a campus
    account) that is set up to use your organizational email address.
 
-.. include:: ../../../shared/getting_started/Section_create_activate_account.rst
+For information about creating accounts and troubleshooting sign-in issues, see
+:ref:`learners:Register on edX` and :ref:`learners:Troubleshooting signin` in
+the *edX Learner's Guide*.
 
-You can only access the **Account Settings** page from the LMS. You cannot
-access this page from Studio.
-
-.. include:: ../../../shared/getting_started/Section_troubleshooting_signin.rst
 
 .. _edX101_section:
 
