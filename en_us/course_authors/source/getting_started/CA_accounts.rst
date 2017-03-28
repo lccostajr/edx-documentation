@@ -12,11 +12,12 @@ describe steps for getting started on edX websites.
  :depth: 1
 
 This information is intended for course teams. The *EdX Learner's Guide* also
-includes information about creating and activating accounts and about the edX
-Demo course. You might want to share pointers to information in the *EdX
-Learner's Guide* with prospective learners, along with your own course- or
-institution-specific details about the registration process, such as password
-policies or the use of campus credentials.
+includes information about :ref:`creating and activating
+accounts<learners:Register on edX>` and about the `edX Demo course`_. You might
+want to share pointers to information in the *EdX Learner's Guide* with
+prospective learners, along with your own course- or institution-specific
+details about the registration process, such as password policies or the use of
+campus credentials.
 
 For information about enrolling learners in a course, see :ref:`enroll_student`.
 
