@@ -80,16 +80,14 @@ Change Course Information`.
     courses.
 
     To access information about a program, select that program. A page opens
-    that provides more information about the program, as well as links to
-    enroll in courses in that program.
+    that provides details about the program, as well as links to enroll in courses in that program.
 
   * View your progress through the program.
 
-    Under the name of the program are two indications of your progress through
-    the program. First, a message specifies the number of courses for which you
-    have earned course certificates in the program. Second, a colored bar
-    indicates the number of program courses that you have enrolled in and
-    completed.
+    Under the name of the program are indications of your progress through the
+    program. You see the number of courses in the program that you have
+    completed, the number of courses in the program that you are enrolled in,
+    and the number of courses in the program that you are not yet enrolled in.
 
   * Access any program certificates you have earned.
 

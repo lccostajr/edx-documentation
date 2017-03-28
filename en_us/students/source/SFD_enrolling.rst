@@ -28,11 +28,11 @@ About edX Courses and Programs
 EdX offers both individual courses and groups of related courses, called
 programs.
 
-To learn about a course, select the course in the `edX course catalog`_ and
-review its About page. The About page provides information including a course
-description, the institution that offers the course, the hours of work that
-you should expect to spend on the course each week, and the enrollment
-options, or tracks, that the course offers.
+To learn about a course or program, review its About page. The About page
+provides information about the course or program, including the course or
+program duration, the hours of work that you should expect to spend each week,
+the institution that offers the course or program, the language, and available
+options for certificates or academic credit.
 
 .. contents::
   :local:
@@ -152,16 +152,20 @@ see the `edX course catalog`_.
 Enrolling in a Course or Program
 ********************************
 
-After you decide that you want to complete a course or program, you enroll in
-that course or program.
+To take a course, you enroll in the course. To join a program, you enroll in any
+course that is part of the program.
+
+Courses or programs that you have enrolled in are added to the **Courses** and
+**Programs** pages of your :ref:`dashboard<SFD Dashboard>`.
+
+.. note:: Course instructors occasionally enroll learners directly in a
+ course. If this is the case, you receive an email that contains a link to the
+ course. Select the link to enroll in the course.
 
 .. contents::
   :local:
   :depth: 1
 
-.. note:: Course instructors occasionally enroll learners directly in a
- course. If this is the case, you receive an email that contains a link to the
- course. Select the link to enroll in the course.
 
 .. _Enroll in the Audit Track:
 
