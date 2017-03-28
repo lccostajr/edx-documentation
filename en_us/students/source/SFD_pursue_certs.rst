@@ -212,8 +212,8 @@ the process as straightforward as possible.
   initials, and spelling.
 
   You can update your edX account name at any time on the edX :ref:`account
-  settings page<SFD Account Settings>`. You also have the opportunity to change
-  your edX account name during the identity verification process.
+  settings page<SFD Update Account Settings>`. You also have the opportunity to
+  change your edX account name during the identity verification process.
 
 * Make sure that your identification card is government issued, such as a
   driver's license or passport.

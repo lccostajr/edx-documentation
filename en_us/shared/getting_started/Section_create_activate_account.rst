@@ -112,7 +112,7 @@ After you activate your account, your browser automatically opens to an
 
 After you create and activate your account, if you want to modify your account
 information, reset your password, or link or unlink accounts, go to the
-:ref:`Account Settings <SFD Account Settings>` page.
+:ref:`Account Settings <SFD Update Account Settings>` page.
 
 
 =======================

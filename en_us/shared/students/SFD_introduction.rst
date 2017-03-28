@@ -29,10 +29,14 @@ completing some of the exercises you may see in your course.
  This guide is continually being updated and expanded. If you have any comments
  or questions about this guide, select **Feedback** on any page.
 
- .. note::  If you have comments or questions about a specific course, first
-    post the course's discussions to try to find answers from the course team
-    or other learners. You can also select **Need Help?** on any page in this
-    guide to contact the edX Learner Support team.
+ .. note::  If you have comments or :ref:`questions about a specific course<If
+    You Have Questions In Course>`, first check the discussions in your course
+    or information on the course's **Home** page to see if your question has
+    been answered there. Join your course discussion and add a question post
+    to get answers from the course team or other learners.
+
+    To contact the edX Learner Support team, select **Need Help?** on any page
+    in this guide.
 
 
 .. contents::
@@ -83,26 +87,26 @@ If You Have Questions As You Take a Course
 If you have a question about something you encounter in an edX course, try
 these options for getting an answer.
 
-* Check the **Home** page. Course teams use this page to post updates about the
-  course, which can include explanations about course content, reminders about
-  when graded assignments are due, or announcements for upcoming events or
-  milestones.
+* Check the **Home** page in the course. Course teams use this page to post
+  updates about the course, which can include explanations about course content,
+  reminders about when graded assignments are due, or announcements for upcoming
+  events or milestones.
 
-* Look for an "Introduction", "Overview", or "Welcome" section on the
-  **Course** page. Course teams often include general information about how the
-  course works and what you can expect, and also what they expect from you, in
-  the first section in the course.
+* Look for an "Introduction", "Overview", or "Welcome" section in the course
+  content. In the first section in the course, course teams often include
+  general information about how the course works and what you can expect, and
+  also what they expect from you, in the first section in the course.
 
-* Participate in the :ref:`course discussions<Explore Posts>`. If you encounter
-  an unfamiliar word, phrase, or abbreviation, such as "finger exercise" or
-  "board work", search for it on the **Discussion** page, or post a question
-  about it yourself. Other learners might be able to answer your question, or
-  might have the same question themselves. Your comments and questions give the
-  course team useful feedback for improving the course.
+* Participate in the :ref:`course discussions<Explore Posts>`. Other learners
+  might be able to answer your question, or might have the same question
+  themselves. If you encounter an unfamiliar word, phrase, or abbreviation,
+  such as "finger exercise" or "board work", search for it on the
+  **Discussion** page, or post a question about it yourself. Your comments and
+  questions give the course team useful feedback for improving the course.
 
-* Investigate other resources. Within the course, a :ref:`wiki<SFD Wiki>`, if
-  one is available, can be a good source of information. Outside of the course,
-  a course-specific Facebook page or Twitter feed might be available for
+* Investigate other resources. Some courses have a :ref:`wiki<SFD Wiki>`,
+  which can be a good source of information. Outside of the course, a
+  course-specific Facebook page or Twitter feed might be available for
   learners to share information.
 
 
